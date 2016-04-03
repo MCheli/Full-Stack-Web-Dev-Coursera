@@ -5,29 +5,85 @@
     </head>
     
     <body>
+        
+        <h1>Please Enter Your Details For Our Dating Website!</h1>
+        
+        <form method="post" enctype="multipart/form-data" action="http://ihome.ust.hk/~rossiter/cgi-bin/show_everything.php">
+        
         <fieldset>
             <legend>Your Face</legend>
-            <!-- TODO -->
             
+            <label for="MyPicture">Your image:</label>
+            <input type="file" name="mypicture" id="MyPicture" required><br>
+            
+            <label for="preview">Image preview:</label>
+            <img id="preview">
         </fieldset>
         
         <fieldset>
             <legend>Your General Details</legend>
-            <!-- TODO -->
+            
+            <label for="fullname">Name:</label>
+            <input type="text" name="fullname" placeholder="Your full name" required><br>
+            
+            <label for="gender">Gender:</label>
+            <input type="radio" name="gender" value="male" required>Male
+            <input type="radio" name="gender" value="female" required>Female<br>
+            
+            <label for="age">Age:</label>
+            <input type="number" name="age" required><br>
+            
+            <label for="date">Date of birth:</label>
+            <input type="date" name="dateofbirth"><br>
+            
+            <label for="favoritecolor">Favorite color:</label>
+            <input type="color" name="favoritecolor"><br>
+            
+            <label for="country">Which country:</label>
+            <select name="country">
+                <option value="noselection"></option>
+                <option value="USA">USA</option>
+                <option value="Canada">Canada</option>
+                <option value="Mexico">Mexico</option>
+                <option value="China">China</option>
+                <option value="Russia">Russia</option>
+            </select>
+            
         </fieldset>
         
         <fieldset>
             <legend>Your Indicators</legend>
-            <!-- TODO -->
             
+            <label for="height">Height: Short</label>
+            <input name="height" type="range" min="0" max="100">
+            <label for="height">Tall</label><br>
+            
+            <label for="salary">Salary: Poor</label>
+            <input name="salary" type="range" min="0" max="100">
+            <label for="salary">Rich</label>
         </fieldset>
         
         <fieldset>
             <legend> Your Contact Information</legend>
-            <!-- TODO -->
+            
+            <label for="email">Email:</label>
+            <input type="email" name="email" required><br>
+            
+            <label for="telephone">Mobile:
+            <input type="tel" name="telephone"><br>
+            
+            <label for="address">Address:</label>
+            <textarea name="address"></textarea><br>
+            
+            <label for="compreference">Method to contact you:</label>
+            <input type="checkbox" name="compreference" value="Email">Email
+            <input type="checkbox" name="compreference" value="Whatsapp">Whatsapp
+            <input type="checkbox" name="compreference" value="In-app chat">In-app chat<br>
             
         </fieldset>
         
+        <input type="submit">
+        </form>
     </body>
     
 </html>

@@ -2,36 +2,45 @@
 <html>
     <head>
         <script>
-            var colors = ["beige", "black", "brown", "cyan", "gold", "fuchsia", "grey", "green", "navy", "orange", "pink", "red", "silver", "white", "yellow"];
+            var colors = ["beige", "black", "brown", "cyan", "fuchsia", "gold", "green", "grey", "navy", "orange", "pink", "red", "silver", "white", "yellow"];
             var readableColors = colors.join(', ');
             var finished = false;
+            var targetNum = Math.floor(Math.random() * colors.length);
+            var target = colors[targetNum];
+            var count = 0;
             
-            function do_game(){
-                var targetNum = Math.floor(Math.random() * colors.length);
-                var target = colors[targetNum];
-                var count = 0;
+            function do_game(){ 
+
                 var guess_input;
                 
-                alert("The color I am thinking of is " + target);
+                //alert("The color I am thinking of is " + target);
 
                 while(!finished){
                     guess_input = prompt("I am thinking of one of these colors:\n\n" + readableColors + "\n\n What color am I thinking of?");
                     count++;
-                    if(guess_input == target)
-                    {
-                        finished = true;
-                        alert("Congradulations!  You have guessed the color! \n\nIt took you " + count + " guess(es) to finish the game!")
-                    }
-                    else{
-                        alert("Sorry, your guess is not correct! \n\nPlease try again.")
-                    }
+                    check_guess(guess_input);
                 }
-
             }
             
-            function check_guess(){
+            function check_guess(guess_input){
                 
+                if(colors.indexOf(guess_input) == -1) {
+                    alert("Sorry, I don't recognize your color. \n\nPlease try again.");
+                }
+                else if(guess_input > target) {
+                    alert("Sorry, your guess is not correct!\n\nHint: your color is alphabetically lower than mine.\n\nPlease try again.");
+                }
+                else if(guess_input < target) {
+                    alert("Sorry, your guess is not correct!\n\nHint: your color is alphabetically higher than mine.\n\nPlease try again.");
+                }
+                else{
+                    myBody=document.getElementsByTagName("body")[0];
+                    myBody.style.background=target;                    
+                    alert("Congratulations!  You have guessed the color!\n\nIt took you " + count + " guesses to finish the game!\n\nYou can see the colour in the background.");
+                    finished = true;
+                }
             }
+
             
         </script>
     </head>

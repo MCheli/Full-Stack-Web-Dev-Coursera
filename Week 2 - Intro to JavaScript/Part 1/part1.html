@@ -4,25 +4,26 @@
         <script>
             var colors = ["beige", "black", "brown", "cyan", "gold", "fuchsia", "grey", "green", "navy", "orange", "pink", "red", "silver", "white", "yellow"];
             var readableColors = colors.join(', ');
-            var targetNum = Math.floor(Math.random() * (colors.length - 1));
-            var target = colors[targetNum];
-            var guess_input;
-            var guesses = 1;
             var finished = false;
+            
             function do_game(){
+                var targetNum = Math.floor(Math.random() * (colors.length - 1));
+                var target = colors[targetNum];
+                var count = 0;
+                var guess_input;
+                
                 alert("The color I am thinking of is " + target);
                 
                 while(!finished){
                     guess_input = prompt("I am thinking of one of these colors:\n\n" + readableColors + "\n\n What color am I thinking of?");
-                    guesses++;
+                    count++;
                     if(guess_input == target)
                     {
                         finished = true;
-                        alert("Congradulations!  You have guessed the color! \n\nIt took you " + guesses + " guesses to finish the game! \n\nYou can see the colour in the background.")
+                        alert("Congradulations!  You have guessed the color! \n\nIt took you " + count + " guess(es) to finish the game!")
                     }
                     else{
                         alert("Sorry, your guess is not correct! \n\nPlease try again.")
-                        guesses++;
                     }
                 }
             }
@@ -34,7 +35,6 @@
         </script>
     </head>
     <body onload="do_game()">
-        
         
     </body>
 </html>

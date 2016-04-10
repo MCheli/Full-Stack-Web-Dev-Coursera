@@ -7,13 +7,13 @@
             var finished = false;
             
             function do_game(){
-                var targetNum = Math.floor(Math.random() * (colors.length - 1));
+                var targetNum = Math.floor(Math.random() * colors.length);
                 var target = colors[targetNum];
                 var count = 0;
                 var guess_input;
                 
                 alert("The color I am thinking of is " + target);
-                
+
                 while(!finished){
                     guess_input = prompt("I am thinking of one of these colors:\n\n" + readableColors + "\n\n What color am I thinking of?");
                     count++;
@@ -26,6 +26,7 @@
                         alert("Sorry, your guess is not correct! \n\nPlease try again.")
                     }
                 }
+
             }
             
             function check_guess(){

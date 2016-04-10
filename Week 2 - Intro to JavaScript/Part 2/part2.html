@@ -28,10 +28,10 @@
                     alert("Sorry, I don't recognize your color. \n\nPlease try again.");
                 }
                 else if(guess_input > target) {
-                    alert("Sorry, your guess is not correct!\n\nHint: your color is alphabetically lower than mine.\n\nPlease try again.");
+                    alert("Sorry, your guess is not correct!\n\nHint: your color is alphabetically higher than mine.\n\nPlease try again.");
                 }
                 else if(guess_input < target) {
-                    alert("Sorry, your guess is not correct!\n\nHint: your color is alphabetically higher than mine.\n\nPlease try again.");
+                    alert("Sorry, your guess is not correct!\n\nHint: your color is alphabetically lower than mine.\n\nPlease try again.");
                 }
                 else{
                     myBody=document.getElementsByTagName("body")[0];

@@ -3,6 +3,7 @@
     <head>
         <title>Matching Game</title>
         <script>
+            
             var numberOfFaces = 5;
             
             function generateFaces() {
@@ -17,17 +18,19 @@
                     smiley.style.left = randomLocation() + "px";  
                     
                     theLeftSide.appendChild(smiley);
-                    
                 }
+                
                 var leftSideImages = theLeftSide.cloneNode(true);
                 leftSideImages.removeChild(leftSideImages.lastElementChild);
 
                 theRightSide.appendChild(leftSideImages);
+
                 
+                //Event Handlers
                 theLeftSide.lastChild.onclick= function nextLevel(event){
                     event.stopPropagation();
                     numberOfFaces += 5;
-                    console.log(numberOfFaces);
+                    
                     while (theLeftSide.firstChild) {
                         theLeftSide.removeChild(theLeftSide.firstChild);
                     }
@@ -36,27 +39,22 @@
                     }
                     
                     generateFaces();
-                     
-                    
-                    
                 };
                 
                 theBody.onclick = function gameOver() {
                    alert("Game Over!");
                    theBody.onclick = null;
                    theLeftSide.lastChild.onclick = null;
-                };
-                
-
+                };        
             }
+            
+            //Helper function for generating random locations
             function randomLocation(){
                 var max = 400;
                 var min = 0;
                 return Math.floor(Math.random() * (max - min + 1)) + min;        
             }
 
-            
-            
         </script>
         <style>
             img{position: absolute}
@@ -69,7 +67,6 @@
             border-left: 1px solid black}
             
         </style>
-           
         
     </head>
     <body onload="generateFaces()">

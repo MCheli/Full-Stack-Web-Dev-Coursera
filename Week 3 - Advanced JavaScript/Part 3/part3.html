@@ -7,6 +7,7 @@
             function generateFaces() {
                 var numberOfFaces = 5;
                 var theLeftSide = document.getElementById("leftSide");
+                var theRightSide = document.getElementById("rightSide")
                 
                 for(i = 0; i < numberOfFaces; i++) {
                     var smiley = document.createElement("IMG");
@@ -15,8 +16,13 @@
                     smiley.style.left = randomLocation() + "px";  
                     
                     theLeftSide.appendChild(smiley);
+                    
+
                 }
-                
+                var leftSideImages = theLeftSide.cloneNode(true);
+                leftSideImages.removeChild(leftSideImages.lastElementChild);
+                    
+                theRightSide.appendChild(leftSideImages);
 
             }
             function randomLocation(){

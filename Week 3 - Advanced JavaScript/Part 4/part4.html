@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Matching Game</title>
+        <script>
+            var numberOfFaces = 5;
+            
+            function generateFaces() {
+                var theLeftSide = document.getElementById("leftSide");
+                var theRightSide = document.getElementById("rightSide")
+                var theBody = document.getElementsByTagName("body")[0];
+                
+                for(i = 0; i < numberOfFaces; i++) {
+                    var smiley = document.createElement("IMG");
+                    smiley.src = "smile.png";
+                    smiley.style.top = randomLocation() + "px";
+                    smiley.style.left = randomLocation() + "px";  
+                    
+                    theLeftSide.appendChild(smiley);
+                    
+                }
+                var leftSideImages = theLeftSide.cloneNode(true);
+                leftSideImages.removeChild(leftSideImages.lastElementChild);
+
+                theRightSide.appendChild(leftSideImages);
+                
+                theLeftSide.lastChild.onclick= function nextLevel(event){
+                    event.stopPropagation();
+                    numberOfFaces += 5;
+                    console.log(numberOfFaces);
+                    while (theLeftSide.firstChild) {
+                        theLeftSide.removeChild(theLeftSide.firstChild);
+                    }
+                    while (theRightSide.firstChild) {
+                        theRightSide.removeChild(theRightSide.firstChild);
+                    }
+                    
+                    generateFaces();
+                     
+                    
+                    
+                };
+                
+                theBody.onclick = function gameOver() {
+                   alert("Game Over!");
+                   theBody.onclick = null;
+                   theLeftSide.lastChild.onclick = null;
+                };
+                
+
+            }
+            function randomLocation(){
+                var max = 400;
+                var min = 0;
+                return Math.floor(Math.random() * (max - min + 1)) + min;        
+            }
+
+            
+            
+        </script>
+        <style>
+            img{position: absolute}
+            
+            div{position: absolute;
+            width: 500px;
+            height: 500px;}
+            
+            #rightSide {left:500px;
+            border-left: 1px solid black}
+            
+        </style>
+           
+        
+    </head>
+    <body onload="generateFaces()">
+        <h1 id="title">The Matching Game</h1>
+        <p id="instructions">There is an extra smiley face on the left side below.  Click it if you can!</p>
+        
+        <div id="leftSide"></div>
+        
+        <div id="rightSide"></div>
+        
+    </body>
+</html>

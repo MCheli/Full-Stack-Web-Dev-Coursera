@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/week2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/index.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/index.html" />
     </list>
@@ -25,12 +26,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1497">
-              <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
+            <state relative-caret-position="648">
+              <caret line="219" column="22" selection-start-line="219" selection-start-column="22" selection-end-line="219" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +83,7 @@
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/contactus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/aboutus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/index.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion (copy)/index.html" />
       </list>
     </option>
   </component>
@@ -140,6 +143,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HTML, CSS and JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End Web UI Frameworks and Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 2 - Boostrap CSS Components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,7 +296,7 @@
       <workItem from="1461515345843" duration="13826000" />
       <workItem from="1461530994225" duration="670000" />
       <workItem from="1462120876479" duration="8570000" />
-      <workItem from="1462133006982" duration="11549000" />
+      <workItem from="1462133006982" duration="13369000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -375,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462135410628</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Completed project for week 2">
+      <created>1462147394420</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1462147394420</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37949000" />
+    <option name="totallyTimeSpent" value="39769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +468,8 @@
     <MESSAGE value="Renamed Week 2 folder, completed exercise 1" />
     <MESSAGE value="Working through exercises, added images" />
     <MESSAGE value="Completed lectures for week 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed lectures for week 2" />
+    <MESSAGE value="Completed project for week 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed project for week 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -476,6 +505,7 @@
             <element signature="n#style#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -633,14 +663,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion (copy)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1497">
-          <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
+        <state relative-caret-position="648">
+          <caret line="219" column="22" selection-start-line="219" selection-start-column="22" selection-end-line="219" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

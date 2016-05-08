@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+            <state relative-caret-position="993">
+              <caret line="175" column="51" selection-start-line="175" selection-start-column="51" selection-end-line="175" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -47,8 +48,8 @@
       <file leaf-file-name="mystyles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state relative-caret-position="417">
+              <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -85,8 +86,8 @@
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/aboutus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion/index.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion (copy)/index.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/aboutus.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html" />
       </list>
     </option>
@@ -283,7 +284,7 @@
       <workItem from="1461530994225" duration="670000" />
       <workItem from="1462120876479" duration="8570000" />
       <workItem from="1462133006982" duration="13430000" />
-      <workItem from="1462729060908" duration="7064000" />
+      <workItem from="1462729060908" duration="8407000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -418,11 +419,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462736613922</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Finished exercise 3">
+      <created>1462738969447</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1462738969447</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46894000" />
+    <option name="totallyTimeSpent" value="48237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,7 +496,8 @@
     <MESSAGE value="Starting week 3" />
     <MESSAGE value="Finished exercise 1" />
     <MESSAGE value="Finished exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished exercise 2" />
+    <MESSAGE value="Finished exercise 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished exercise 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -692,14 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
@@ -708,10 +709,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+        <state relative-caret-position="993">
+          <caret line="175" column="51" selection-start-line="175" selection-start-column="51" selection-end-line="175" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

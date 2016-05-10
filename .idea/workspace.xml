@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="313" column="14" selection-start-line="313" selection-start-column="14" selection-end-line="313" selection-end-column="14" />
+            <state relative-caret-position="435">
+              <caret line="299" column="31" selection-start-line="299" selection-start-column="31" selection-end-line="299" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -313,7 +312,7 @@
       <workItem from="1462133006982" duration="13430000" />
       <workItem from="1462729060908" duration="12138000" />
       <workItem from="1462838464577" duration="1953000" />
-      <workItem from="1462907390919" duration="5393000" />
+      <workItem from="1462907390919" duration="5734000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -518,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462922093078</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Modified how the modals appear to be based on ID's and not on functions">
+      <created>1462922781387</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1462922781387</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59314000" />
+    <option name="totallyTimeSpent" value="59655000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,7 +575,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Starting with Bootstrap" />
     <MESSAGE value="Completed first part of conFusion" />
     <MESSAGE value="Added styles to conFusion" />
     <MESSAGE value="Finished conFusion homepage, starting assignment 1" />
@@ -594,7 +599,8 @@
     <MESSAGE value="Added Bower Components" />
     <MESSAGE value="Finished exercise 4" />
     <MESSAGE value="Finished project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished project" />
+    <MESSAGE value="Modified how the modals appear to be based on ID's and not on functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified how the modals appear to be based on ID's and not on functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -867,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="313" column="14" selection-start-line="313" selection-start-column="14" selection-end-line="313" selection-end-column="14" />
+        <state relative-caret-position="435">
+          <caret line="299" column="31" selection-start-line="299" selection-start-column="31" selection-end-line="299" selection-end-column="31" />
           <folding />
         </state>
       </provider>

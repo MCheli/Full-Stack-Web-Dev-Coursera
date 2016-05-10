@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/img/alberto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/img/buffet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/img/uthappizza.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/aboutus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/contactus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap-social.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/js/npm.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,42 +24,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="125" column="24" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aboutus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/aboutus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5508">
-              <caret line="306" column="14" selection-start-line="306" selection-start-column="14" selection-end-line="306" selection-end-column="14" />
+            <state relative-caret-position="813">
+              <caret line="400" column="11" selection-start-line="400" selection-start-column="11" selection-end-line="400" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="mystyles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/contactus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="36" column="92" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+            <state relative-caret-position="867">
+              <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -119,8 +66,10 @@
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 2 - Boostrap CSS Components/conFusion (copy)/index.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/aboutus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion (copy)/index.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" />
       </list>
     </option>
   </component>
@@ -195,44 +144,52 @@
               <option name="myItemId" value="Front-End Web UI Frameworks and Tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks and Tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3 - Bootstrap Javascript Components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks and Tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3 - Bootstrap Javascript Components" />
+              <option name="myItemId" value="Week 4 - Web Tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="conFusion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End Web UI Frameworks and Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 4 - Web Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conFusion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End Web UI Frameworks and Tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,7 +292,7 @@
       <workItem from="1462120876479" duration="8570000" />
       <workItem from="1462133006982" duration="13430000" />
       <workItem from="1462729060908" duration="12138000" />
-      <workItem from="1462838464577" duration="496000" />
+      <workItem from="1462838464577" duration="1696000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -498,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462745134912</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Starting week 4">
+      <created>1462838980569</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1462838980569</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52464000" />
+    <option name="totallyTimeSpent" value="53664000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,7 +536,8 @@
     <MESSAGE value="Finished exercise 4" />
     <MESSAGE value="Finished week 3 assignment" />
     <MESSAGE value="Added screenshot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added screenshot" />
+    <MESSAGE value="Starting week 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting week 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -745,8 +710,8 @@
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion (copy)/index.html" />
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="125" column="24" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
+        <state relative-caret-position="632">
+          <caret line="254" column="20" selection-start-line="254" selection-start-column="20" selection-end-line="254" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -755,7 +720,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5508">
+        <state relative-caret-position="471">
           <caret line="306" column="14" selection-start-line="306" selection-start-column="14" selection-end-line="306" selection-end-column="14" />
           <folding />
         </state>
@@ -763,7 +728,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/css/mystyles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
+        <state relative-caret-position="417">
           <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
           <folding />
         </state>
@@ -771,8 +736,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 3 - Bootstrap Javascript Components/conFusion/contactus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
+        <state relative-caret-position="18">
           <caret line="36" column="92" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="400" column="11" selection-start-line="400" selection-start-column="11" selection-end-line="400" selection-end-column="11" />
           <folding />
         </state>
       </provider>

@@ -68,7 +68,7 @@
                     <i class="fa fa-envelope-o"></i> Contact</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a onclick="showLogin()">
+                <li><a id="login">
                     <span class="glyphicon glyphicon-log-in"></span> Login</a>
                 </li>
             </ul>
@@ -188,7 +188,7 @@
             <div class="col-xs-12 col-sm-2" >
                 <p style="padding:40px;"></p>
                 <a type="button" class="btn btn-warning btn-block"
-                   onclick="showReserve()">Reserve Table</a>
+                   id="reserve">Reserve Table</a>
             </div>
         </div>
     </div>
@@ -400,12 +400,12 @@
             $("#mycarousel").carousel('cycle');
         });
     });
-    function showReserve(){
-        $('#reserveModal').modal('show')
-    }
-    function showLogin(){
-        $('#loginModal').modal('show')
-    }
+    $("#reserve").click(function() {
+        $("#reserveModal").modal('show');
+    });
+    $("#login").click(function() {
+        $("#loginModal").modal('show');
+    });
 </script>
 
 </body>

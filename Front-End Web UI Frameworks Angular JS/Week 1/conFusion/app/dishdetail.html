@@ -44,7 +44,11 @@
                 </div>
         </div>
         <div class="col-xs-9 col-xs-offset-1">
-            <p>Put the comments here</p>
+            <p>Customer Comments</p>
+            <blockquote>
+                <p>{{dish.comments[comment]}}</p>
+                <footer>-{{dish.comments[author]}}, {{dish.comments[date | filter date]}}</footer>
+            </blockquote>
         </div>
     </div>
 

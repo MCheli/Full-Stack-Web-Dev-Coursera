@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="102" column="32" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
+            <state relative-caret-position="309">
+              <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dishdetail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -65,6 +75,7 @@
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html" />
       </list>
     </option>
   </component>
@@ -276,7 +287,7 @@
       <workItem from="1462923685334" duration="10000" />
       <workItem from="1465128048691" duration="2338000" />
       <workItem from="1465131516910" duration="1873000" />
-      <workItem from="1465134600005" duration="1535000" />
+      <workItem from="1465134600005" duration="3848000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -509,11 +520,25 @@
       <option name="project" value="LOCAL" />
       <updated>1465134699632</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Finished angular week 1 lectures">
+      <created>1465136146865</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1465136146865</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Completed task 1">
+      <created>1465137405474</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1465137405474</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65970000" />
+    <option name="totallyTimeSpent" value="68283000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,8 +585,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Finished conFusion homepage, starting assignment 1" />
-    <MESSAGE value="Completed Assignment 1" />
     <MESSAGE value="Fixed responsive layout problem" />
     <MESSAGE value="Updated screenshot" />
     <MESSAGE value="Starting Week 2" />
@@ -585,20 +608,15 @@
     <MESSAGE value="Modified how the modals appear to be based on ID's and not on functions" />
     <MESSAGE value="Finished Course Front-End Course" />
     <MESSAGE value="Starting AngularJS Course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting AngularJS Course" />
+    <MESSAGE value="Finished angular week 1 lectures" />
+    <MESSAGE value="Completed task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/contactus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="95" column="31" selection-start-line="95" selection-start-column="31" selection-end-line="95" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -880,8 +898,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="102" column="32" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
+        <state relative-caret-position="309">
+          <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
           <folding />
         </state>
       </provider>

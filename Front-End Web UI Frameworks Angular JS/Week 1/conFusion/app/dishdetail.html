@@ -28,30 +28,32 @@
 <div class="container">
     <div class="row row-content" ng-controller="dishDetailController as dishCtrl">
         <div class="col-xs-12">
-                <div class="media" ng-repeat="dish in dishCtrl">
-                    <div class="media-left media-middle">
-                        <a href="#">
-                            <img class="media-object img-thumbnail"
-                                 ng-src={{dish.image}} alt="Uthappizza">
-                        </a>
-                    </div>
-                    <div class="media-body">
-                        <h2 class="media-heading">{{dish.name}}
-                            <span class="label label-danger">{{dish.label}}</span>
-                            <span class="badge">{{dish.price | currency}}</span></h2>
-                        <p>{{dish.description}}</p>
-                    </div>
+            <div class="media" ng-repeat="dish in dishCtrl">
+                <div class="media-left media-middle">
+                    <a href="#">
+                        <img class="media-object img-thumbnail"
+                              ng-src={{dish.image}}>
+                    </a>
                 </div>
+                <div class="media-body">
+                    <h2 class="media-heading">{{dish.name}}
+                        <span class="label label-danger">{{dish.label}}</span>
+                        <span class="badge">{{dish.price | currency}}</span></h2>
+                    <p>{{dish.description}}</p>
+                </div>
+            </div>
         </div>
         <div class="col-xs-9 col-xs-offset-1">
-            <p>Customer Comments</p>
-            <blockquote>
-                <p>{{dish.comments[comment]}}</p>
-                <footer>-{{dish.comments[author]}}, {{dish.comments[date | filter date]}}</footer>
+            <div class="row-header">
+                <h4>Customer Comments <small>Sort by: </small><input type="text" id="usr" ng-model="dishCtrl.order"></h4>
+            </div>
+            <blockquote ng-repeat="comment in dishCtrl.comments | orderBy:dishCtrl.order">
+                <p>{{comment.rating}} Stars</p>
+                <p>{{comment.comment}}</p>
+                <footer>{{comment.author}}, {{comment.date | date}}</footer>
             </blockquote>
         </div>
     </div>
-
 </div>
 
 <script src="../bower_components/angular/angular.min.js"></script>
@@ -104,6 +106,10 @@
         };
 
         this.dish = dish;
+
+        this.comments = dish.comments;
+
+        this.order = 'author';
 
     });
 

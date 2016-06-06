@@ -25,8 +25,8 @@
       <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+            <state relative-caret-position="411">
+              <caret line="50" column="72" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="dishdetail.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+            <state relative-caret-position="162">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -116,7 +116,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,6 +184,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,7 +287,8 @@
       <workItem from="1462923685334" duration="10000" />
       <workItem from="1465128048691" duration="2338000" />
       <workItem from="1465131516910" duration="1873000" />
-      <workItem from="1465134600005" duration="3848000" />
+      <workItem from="1465134600005" duration="3871000" />
+      <workItem from="1465165969255" duration="6155000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -534,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465137405474</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="working on task 2">
+      <created>1465138691729</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1465138691729</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68283000" />
+    <option name="totallyTimeSpent" value="74461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,7 +593,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Fixed responsive layout problem" />
     <MESSAGE value="Updated screenshot" />
     <MESSAGE value="Starting Week 2" />
     <MESSAGE value="Renamed Week 2 folder, completed exercise 1" />
@@ -610,7 +617,8 @@
     <MESSAGE value="Starting AngularJS Course" />
     <MESSAGE value="Finished angular week 1 lectures" />
     <MESSAGE value="Completed task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed task 1" />
+    <MESSAGE value="working on task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on task 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -892,22 +900,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+        <state relative-caret-position="411">
+          <caret line="50" column="72" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        <state relative-caret-position="162">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding />
         </state>
       </provider>

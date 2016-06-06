@@ -28,18 +28,18 @@
 <div class="container">
     <div class="row row-content" ng-controller="dishDetailController as dishCtrl">
         <div class="col-xs-12">
-            <div class="media" ng-repeat="dish in dishCtrl">
+            <div class="media">
                 <div class="media-left media-middle">
                     <a href="#">
                         <img class="media-object img-thumbnail"
-                              ng-src={{dish.image}}>
+                              ng-src={{dishCtrl.dish.image}} alt="Uthappizza">
                     </a>
                 </div>
                 <div class="media-body">
-                    <h2 class="media-heading">{{dish.name}}
-                        <span class="label label-danger">{{dish.label}}</span>
-                        <span class="badge">{{dish.price | currency}}</span></h2>
-                    <p>{{dish.description}}</p>
+                    <h2 class="media-heading">{{dishCtrl.dish.name}}
+                        <span class="label label-danger">{{dishCtrl.dish.label}}</span>
+                        <span class="badge">{{dishCtrl.dish.price | currency}}</span></h2>
+                    <p>{{dishCtrl.dish.description}}</p>
                 </div>
             </div>
         </div>

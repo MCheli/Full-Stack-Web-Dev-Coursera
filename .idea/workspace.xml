@@ -4,7 +4,6 @@
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/Screenshot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -319,7 +318,7 @@
       <workItem from="1465128048691" duration="2338000" />
       <workItem from="1465131516910" duration="1873000" />
       <workItem from="1465134600005" duration="3871000" />
-      <workItem from="1465165969255" duration="8019000" />
+      <workItem from="1465165969255" duration="8033000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -580,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465172139962</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Finished week 1">
+      <created>1465173997553</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1465173997553</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76325000" />
+    <option name="totallyTimeSpent" value="76339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -631,7 +637,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Starting Week 2" />
     <MESSAGE value="Renamed Week 2 folder, completed exercise 1" />
     <MESSAGE value="Working through exercises, added images" />
     <MESSAGE value="Completed lectures for week 2" />
@@ -656,7 +661,8 @@
     <MESSAGE value="Completed task 1" />
     <MESSAGE value="working on task 2" />
     <MESSAGE value="Completed assignment 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed assignment 1" />
+    <MESSAGE value="Finished week 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished week 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

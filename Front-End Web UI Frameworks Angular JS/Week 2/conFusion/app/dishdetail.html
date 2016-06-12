@@ -58,8 +58,7 @@
             </blockquote>
         </div>
         <div class="col-xs-9 col-xs-offset-1" ng-controller="DishCommentController">
-            <blockquote ng-show="!commentForm.comment.$pristine && !commentForm.comment.$error.required
-             || !commentForm.name.$pristine && !commentForm.name.$error.required">
+            <blockquote ng-show="commentForm.comment.$valid && !commentForm.comment.$pristine && commentForm.name.$valid && !commentForm.name.$pristine">
                 <p>{{myComment.rating}} Stars</p>
                 <p>{{myComment.comment}}</p>
                 <footer>{{myComment.author}}, {{myComment.date | date}}</footer>

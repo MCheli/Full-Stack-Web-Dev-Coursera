@@ -504,7 +504,7 @@
       <workItem from="1465165969255" duration="8047000" />
       <workItem from="1465744718519" duration="27623000" />
       <workItem from="1465844423143" duration="85000" />
-      <workItem from="1465844520495" duration="6770000" />
+      <workItem from="1465844520495" duration="6789000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -821,11 +821,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465847005971</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="NodeJS week 1, beginning assignment 1">
+      <created>1465852002094</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1465852002094</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110831000" />
+    <option name="totallyTimeSpent" value="110850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -875,7 +882,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Finished exercise 1" />
     <MESSAGE value="Finished exercise 2" />
     <MESSAGE value="Finished exercise 3" />
     <MESSAGE value="Finished week 3 assignment" />
@@ -900,7 +906,8 @@
     <MESSAGE value="angular assignment 2 completed" />
     <MESSAGE value="angular assignment 2 bug fix - no longer previews before valid" />
     <MESSAGE value="NodeJS week 1, 3/4 lecture progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="NodeJS week 1, 3/4 lecture progress" />
+    <MESSAGE value="NodeJS week 1, beginning assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="NodeJS week 1, beginning assignment 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus_old.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu_old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/contactus.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus_old.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/legacy/contactus_old.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/dishdetail.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail_old.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/legacy/dishdetail_old.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/menu.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu_old.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/legacy/menu_old.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail_old.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail_old.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/bower.json" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/bower.json" />
@@ -31,12 +34,12 @@
     <favorites_list name="Full-Stack-Web-Dev-Coursera" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="378">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -45,8 +48,18 @@
       <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+            <state relative-caret-position="432">
+              <caret line="69" column="53" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -55,47 +68,67 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+            <state relative-caret-position="324">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="612">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="dishdetail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/dishdetail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+            <state relative-caret-position="72">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="contactus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus.html">
+        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/contactus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
+            <state relative-caret-position="2304">
               <caret line="128" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="6" />
               <folding />
             </state>
@@ -114,10 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.css" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/css/mystyles.less" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/bower.json" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/contactus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/aboutus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html" />
@@ -158,38 +187,22 @@
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/Assignment1(copy)/server.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/Assignment1(copy)/promoRouter.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/header.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/footer.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/dishdetail.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/menu.html" />
+        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true">
-    <gruntfile path="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js">
-      <alias-task name="build" info="Alias for &quot;clean&quot;, &quot;jshint&quot;, &quot;useminPrepare&quot;, &quot;concat&quot;, &quot;cssmin&quot;, &quot;uglify&quot;, &quot;copy&quot;, &quot;filerev&quot;, &quot;usemin&quot; tasks." file-path="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js">
-        <dependency value="clean" />
-        <dependency value="jshint" />
-        <dependency value="useminPrepare" />
-        <dependency value="concat" />
-        <dependency value="cssmin" />
-        <dependency value="uglify" />
-        <dependency value="copy" />
-        <dependency value="filerev" />
-        <dependency value="usemin" />
-      </alias-task>
-      <alias-task name="default" info="Alias for &quot;build&quot; task." file-path="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js">
-        <dependency value="build" />
-      </alias-task>
-      <alias-task name="serve" info="Alias for &quot;build&quot;, &quot;connect:dist&quot;, &quot;watch&quot; tasks." file-path="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js">
-        <dependency value="build" />
-        <dependency value="connect:dist" />
-        <dependency value="watch" />
-      </alias-task>
-    </gruntfile>
+    <gruntfile path="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js" />
   </component>
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -288,8 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -369,39 +380,11 @@
               <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conFusion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,14 +401,15 @@
     <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/legacy" />
+      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views" />
       <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/Assignment 1" />
       <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http" />
       <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion" />
-      <recent name="$PROJECT_DIR$/HTML, CSS and JavaScript" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express" />
     </key>
   </component>
   <component name="RunManager">
@@ -526,6 +510,7 @@
       <workItem from="1465844423143" duration="85000" />
       <workItem from="1465844520495" duration="10355000" />
       <workItem from="1466280639839" duration="6245000" />
+      <workItem from="1466292566578" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="Added WebStorm">
       <created>1461349842664</created>
@@ -874,7 +859,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120661000" />
+    <option name="totallyTimeSpent" value="124105000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -889,15 +874,15 @@
     <frame x="63" y="24" width="1857" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5043668" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31458333" sideWeight="0.4214831" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19247547" sideWeight="0.49166667" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49563318" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24791667" sideWeight="0.32751092" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.33315158" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31458333" sideWeight="0.4187568" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31458333" sideWeight="0.58124316" order="8" side_tool="false" content_ui="tabs" x="1985" y="24" width="1855" height="1056" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.6670306" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31458333" sideWeight="0.5785169" order="8" side_tool="false" content_ui="tabs" x="1985" y="24" width="1855" height="1056" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.66412216" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.6697598" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.6668484" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19268559" sideWeight="0.5083333" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -958,20 +943,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="50" column="72" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion (copy)/app/dishdetail.html" />
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1099,7 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1219,66 +1189,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js">
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/contactus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2304">
+          <caret line="128" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="378">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="468">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/contactus.html">
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="128" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+        <state relative-caret-position="576">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/dishdetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="69" column="53" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
           <folding />
         </state>
       </provider>

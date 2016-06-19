@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,77 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4248">
-              <caret line="236" column="44" selection-start-line="236" selection-start-column="44" selection-end-line="236" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aboutus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/aboutus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1098">
-              <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dishdetail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/dishdetail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,25 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion/app/dishdetail.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 1/conFusion (copy)/app/dishdetail.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/.jshintrc" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/package.json" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/gulpfile.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/gulpfile.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/menu.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/contactus.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/scripts/app_old.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/dishdetail.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion (copy)/app/dishdetail.html" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/simplerect.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/rectangle-1.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/solve-1.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/rectangle-2.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/solve-2.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/solve-3.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/public/server-1.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/public/index.html" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/public/aboutus.html" />
@@ -150,19 +79,40 @@
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/dishdetail.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/menu.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/gulpfile.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/aboutus.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/home.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/services.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-exporess-gen/bin/www" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/package.json" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/app.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongodb/simpleserver.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongodb/operations.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongodb/server.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-1.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-1.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-2.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-3.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-3.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/dishes.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-dishes.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-promotions.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-promos.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-leaders.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/leaders.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/promotions.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/leadership.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true">
     <gruntfile path="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/Gruntfile.js" />
   </component>
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/package.json" />
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <gulpfiles>
@@ -216,7 +166,7 @@
     </gulpfiles>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1983" />
+    <option name="x" value="63" />
     <option name="y" value="24" />
     <option name="width" value="1857" />
     <option name="height" value="1056" />
@@ -262,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -292,15 +241,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
+              <option name="myItemId" value="Server-side Development with NodeJS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conFusion" />
+              <option name="myItemId" value="Week 2 - Data, Data, Where art Thou Data?" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -314,102 +259,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conFusion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conFusion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conFusion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End Web UI Frameworks Angular JS" />
+              <option name="myItemId" value="Server-side Development with NodeJS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="last_opened_file_path" value="/usr/lib/nodejs/npm" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -422,15 +282,18 @@
     <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2" />
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/public" />
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/routes" />
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/legacy" />
       <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views" />
       <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/Assignment 1" />
       <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http" />
       <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express" />
     </key>
   </component>
   <component name="RunManager">
@@ -450,6 +313,22 @@
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
@@ -532,35 +411,11 @@
       <workItem from="1465844520495" duration="10355000" />
       <workItem from="1466280639839" duration="6245000" />
       <workItem from="1466292566578" duration="9113000" />
-      <workItem from="1466302319772" duration="62000" />
-    </task>
-    <task id="LOCAL-00004" summary="Starting with Bootstrap">
-      <created>1461517828160</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1461517828160</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Completed first part of conFusion">
-      <created>1461519732077</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1461519732077</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added styles to conFusion">
-      <created>1461523213257</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1461523213257</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Finished conFusion homepage, starting assignment 1">
-      <created>1461526088471</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1461526088471</updated>
+      <workItem from="1466302319772" duration="129000" />
+      <workItem from="1466347390874" duration="265000" />
+      <workItem from="1466363148826" duration="1189000" />
+      <workItem from="1466364348658" duration="11760000" />
+      <workItem from="1466378352569" duration="243000" />
     </task>
     <task id="LOCAL-00008" summary="Completed Assignment 1">
       <created>1461530150415</created>
@@ -877,11 +732,39 @@
       <option name="project" value="LOCAL" />
       <updated>1466301554024</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="freaking semicolons">
+      <created>1466302421877</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1466302421879</updated>
+    </task>
+    <task id="LOCAL-00054" summary="nodeJS week 2, almost finished with lectures">
+      <created>1466371413838</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1466371413839</updated>
+    </task>
+    <task id="LOCAL-00055" summary="nodeJS week 2, finished assignment 2">
+      <created>1466378469505</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1466378469505</updated>
+    </task>
+    <task id="LOCAL-00056" summary="nodeJS week 2, finished assignment 2">
+      <created>1466378508645</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1466378508645</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129836000" />
+    <option name="totallyTimeSpent" value="143360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -893,29 +776,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1983" y="24" width="1857" height="1056" extended-state="6" />
+    <frame x="63" y="24" width="1857" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.42693567" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19247547" sideWeight="0.49166667" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49563318" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4912759" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.33315158" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.34133044" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31458333" sideWeight="0.5730643" order="8" side_tool="false" content_ui="tabs" x="1985" y="24" width="1855" height="1056" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21145834" sideWeight="0.32224646" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57708335" sideWeight="0.31952018" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31458333" sideWeight="0.47055617" order="8" side_tool="false" content_ui="tabs" x="1985" y="24" width="1855" height="1056" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.77862597" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.66139585" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21145834" sideWeight="0.67775357" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19268559" sideWeight="0.5083333" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4978166" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.6559433" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29270834" sideWeight="0.3165939" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -931,9 +814,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Finished exercises 1 &amp; 2" />
-    <MESSAGE value="Completed exercise 3" />
-    <MESSAGE value="Added Bower Components" />
     <MESSAGE value="Finished exercise 4" />
     <MESSAGE value="Finished project" />
     <MESSAGE value="Modified how the modals appear to be based on ID's and not on functions" />
@@ -956,185 +836,18 @@
     <MESSAGE value="Week 3 Angular, finished with lectures" />
     <MESSAGE value="Week 3 Angular,starting assignment" />
     <MESSAGE value="Week 3 Angular,completed assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Angular,completed assignment" />
+    <MESSAGE value="freaking semicolons" />
+    <MESSAGE value="nodeJS week 2, almost finished with lectures" />
+    <MESSAGE value="nodeJS week 2, finished assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="nodeJS week 2, finished assignment 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="75" column="46" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/contactus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="151" column="33" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/scripts/app_old.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="92" column="45" selection-start-line="92" selection-start-column="45" selection-end-line="92" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/dishdetail_old.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="54" column="14" selection-start-line="45" selection-start-column="8" selection-end-line="54" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks and Tools/Week 4 - Web Tools/conFusion/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion/app/dishdetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="66" column="57" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion (copy)/app/dishdetail.html" />
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion (copy)/app/scripts/app.js" />
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/rectangle-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/solve-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/solve-3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/server-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/public/aboutus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express/server-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express/server-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http/server-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express/server-3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-express/server-4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/solve-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/simplerect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-examples/rectangle-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/Assignment 1/dishRouter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1202,14 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/.jshintrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1236,31 +941,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4248">
           <caret line="236" column="44" selection-start-line="236" selection-start-column="44" selection-end-line="236" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/scripts/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
+        <state relative-caret-position="627">
           <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
+        <state relative-caret-position="627">
           <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1268,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1276,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,6 +983,106 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/routes/dishRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-express-gen/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongodb/simpleserver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongodb/operations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongodb/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-1.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-1.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-2.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/node_modules/ms/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-3.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-3.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-promotions.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-dishes.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-promos.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-leaders.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/leadership.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/dishes.js" />
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/promotions.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>

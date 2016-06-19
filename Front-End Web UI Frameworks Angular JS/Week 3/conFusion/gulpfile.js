@@ -32,7 +32,7 @@ gulp.task('default', ['clean'], function() {
 });
 
 gulp.task('usemin',['jshint'], function () {
-    return gulp.src('./app/menu.html')
+    return gulp.src('./app/index.html')
         .pipe(usemin({
             css:[minifycss(),rev()],
             js: [ngannotate(),uglify(),rev()]
@@ -64,19 +64,25 @@ gulp.task('watch', ['browser-sync'], function() {
 
 });
 
+gulp.task('moveViews', function(){
+    gulp.src('./app/views/**/*')
+        .pipe(gulp.dest('dist/views/'));
+})
+
 gulp.task('browser-sync', ['default'], function () {
     var files = [
         'app/**/*.html',
         'app/styles/**/*.css',
         'app/images/**/*.png',
         'app/scripts/**/*.js',
+        'app/views/**/*.html',
         'dist/**/*'
     ];
 
     browserSync.init(files, {
         server: {
             baseDir: "dist",
-            index: "menu.html"
+            index: "index.html"
         }
     });
     // Watch any files in dist/, reload on change

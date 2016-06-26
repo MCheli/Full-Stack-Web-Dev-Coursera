@@ -7,7 +7,6 @@ angular.module('confusionApp')
     .service('menuFactory', ['$http', 'baseURL', function($http,baseURL) {
 
 
-
         var promotions = [
             {
                 _id: 0,

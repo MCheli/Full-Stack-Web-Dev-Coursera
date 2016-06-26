@@ -28,16 +28,25 @@ gulp.task('clean', function() {
 
 // Default task
 gulp.task('default', ['clean'], function() {
-    gulp.start('usemin', 'imagemin','copyfonts');
+    gulp.start('usemin', 'usemin2', 'imagemin','copyfonts', 'copy-files');
 });
 
 gulp.task('usemin',['jshint'], function () {
-    return gulp.src('./app/index.html')
+    return gulp.src('./app/**/*.html')
         .pipe(usemin({
             css:[minifycss(),rev()],
             js: [ngannotate(),uglify(),rev()]
         }))
         .pipe(gulp.dest('dist/'));
+});
+
+gulp.task('usemin2',['jshint'], function () {
+    return gulp.src('./app/views/*.html')
+        .pipe(usemin({
+            css:[minifycss(),rev()],
+            js: [ngannotate(),uglify(),rev()]
+        }))
+        .pipe(gulp.dest('dist/views'));
 });
 
 // Images
@@ -64,18 +73,12 @@ gulp.task('watch', ['browser-sync'], function() {
 
 });
 
-gulp.task('moveViews', function(){
-    gulp.src('./app/views/**/*')
-        .pipe(gulp.dest('dist/views/'));
-})
-
 gulp.task('browser-sync', ['default'], function () {
     var files = [
         'app/**/*.html',
         'app/styles/**/*.css',
         'app/images/**/*.png',
         'app/scripts/**/*.js',
-        'app/views/**/*.html',
         'dist/**/*'
     ];
 
@@ -87,4 +90,10 @@ gulp.task('browser-sync', ['default'], function () {
     });
     // Watch any files in dist/, reload on change
     gulp.watch(['dist/**']).on('change', browserSync.reload);
+});
+
+gulp.task('copy-files', function(){
+    gulp
+        .src('dist/**/*')
+        .pipe(gulp.dest('../json-server/public'));
 });

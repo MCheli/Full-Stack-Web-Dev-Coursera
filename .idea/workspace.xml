@@ -2,54 +2,354 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 2/models/dishes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 2/models/leadership.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 2/models/promotions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 2/server-dishes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 2/server-leaders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 2/server-promos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/public/aboutus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/routes/dishRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/routes/leaderRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/routes/promoRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/routes/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/views/error.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/views/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-express-gen/views/layout.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongodb/operations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongodb/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongodb/simpleserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongoose/models/dishes-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongoose/models/dishes-3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongoose/server-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongoose/server-2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/node-mongoose/server-3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/db.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/dishes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/leadership.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/promotions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/dishRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/leaderRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/promoRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/views/error.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/views/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/views/layout.jade" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/.bin/mime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/array-flatten/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/array-flatten/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/array-flatten/array-flatten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/array-flatten/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/basic-auth/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/basic-auth/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/basic-auth/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/basic-auth/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/basic-auth/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/lib/read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/lib/types/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/lib/types/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/lib/types/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/lib/types/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/http-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/dist/qs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/body-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/bytes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-disposition/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-disposition/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-disposition/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-disposition/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-disposition/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-type/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-type/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-type/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-type/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/content-type/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/lib/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/lib/compat/buffer-concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/lib/compat/event-listener-count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/destroy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/destroy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/destroy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/destroy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/escape-html/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/etag/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/etag/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/etag/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/etag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/etag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/finalhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/forwarded/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/forwarded/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/forwarded/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/forwarded/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/forwarded/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/fresh/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/fresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/http-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/dbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/dbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/sbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/sbcs-data-generated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/sbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/big5-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/cp936.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/cp949.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/cp950.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/eucjp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/gbk-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/tables/shiftjis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/utf16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/encodings/utf7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/lib/bom-handling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/lib/extend-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/lib/streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/iconv-lite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/merge-descriptors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/merge-descriptors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/methods/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/methods/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/build/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/mime/types.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/morgan/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/morgan/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/morgan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/morgan/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/morgan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ms/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ms/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-headers/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-headers/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-headers/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-headers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/on-headers/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/path-to-regexp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/proxy-addr/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/range-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/range-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/range-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/raw-body/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/raw-body/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/raw-body/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/raw-body/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/raw-body/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/send/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/send/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/node_modules/send/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/node_modules/send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/node_modules/send/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/statuses/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/statuses/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/statuses/codes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/statuses/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/statuses/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/unpipe/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/unpipe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/unpipe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/unpipe/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/unpipe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/vary/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/public/aboutus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/sessions/_vz4r5SZvNZephbAZilavOEPdI67wgFg.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/sessions/bkSfVqUJOq6QaghyoA1UxQCy2clEwvDO.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/db.json" afterPath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/db.json" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,61 +369,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/app.js">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="486">
+              <caret line="27" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dishRouter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/dishRouter.js">
+      <file leaf-file-name="server-3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server-3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+            <state relative-caret-position="462">
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/db.json">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="150" column="5" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="promoRouter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/promoRouter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="promotions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/promotions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leaderRouter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/leaderRouter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="39" column="44" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="44" />
+            <state relative-caret-position="450">
+              <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -148,8 +418,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/dishdetail.html" />
-        <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/menu.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/index.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/header.html" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views/footer.html" />
@@ -195,10 +463,12 @@
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/conFusion/app/scripts/services.js" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/conFusion/app/scripts/controllers.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/app.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/dishRouter.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/leaderRouter.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/promoRouter.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/server-3.js" />
       </list>
     </option>
   </component>
@@ -259,6 +529,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,8 +565,26 @@
               <option name="myItemId" value="Week 3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rest-server" />
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server-side Development with NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic-auth" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -317,55 +606,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rest-server" />
+              <option name="myItemId" value="basic-auth" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Server-side Development with NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rest-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Server-side Development with NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 3" />
+              <option name="myItemId" value="sessions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,7 +630,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,19 +647,19 @@
     <property name="javascript.karma.karma_node_package_dir" value="/usr/local/lib/node_modules/karma-cli" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server" />
-      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes" />
-      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server" />
-      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public" />
-      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/conFusion/dist" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth" />
       <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/legacy" />
       <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 3/conFusion/app/views" />
       <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/Assignment 1" />
       <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 1 - Introduction to Server-side Development/node-http" />
-      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 2/conFusion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth" />
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server" />
+      <recent name="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes" />
+      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server" />
+      <recent name="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public" />
     </key>
   </component>
   <component name="RunManager" selected="Karma.karma.conf.js">
@@ -567,14 +811,9 @@
       <workItem from="1466980317634" duration="3731000" />
       <workItem from="1466987139819" duration="3316000" />
       <workItem from="1466990470166" duration="470000" />
-      <workItem from="1466990949685" duration="1915000" />
-    </task>
-    <task id="LOCAL-00013" summary="Working through exercises, added images">
-      <created>1462133707640</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1462133707640</updated>
+      <workItem from="1466990949685" duration="1977000" />
+      <workItem from="1467060204089" duration="5014000" />
+      <workItem from="1467067478744" duration="44000" />
     </task>
     <task id="LOCAL-00014" summary="Completed lectures for week 2">
       <created>1462135410628</created>
@@ -912,11 +1151,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466982975775</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Week 3 NodeJS, finished first exercise">
+      <created>1466993266380</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1466993266380</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174124000" />
+    <option name="totallyTimeSpent" value="179244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -937,20 +1183,20 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.225" sideWeight="0.39094874" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57708335" sideWeight="0.31952018" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31458333" sideWeight="0.76881135" order="8" side_tool="false" content_ui="tabs" x="1985" y="24" width="1855" height="1056" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.6314068" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.259375" sideWeight="0.45528898" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19268559" sideWeight="0.5083333" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4978166" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.6314068" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.228125" sideWeight="0.544711" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49563795" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -966,7 +1212,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-    <MESSAGE value="Finished angular week 1 lectures" />
     <MESSAGE value="Completed task 1" />
     <MESSAGE value="working on task 2" />
     <MESSAGE value="Completed assignment 1" />
@@ -991,7 +1236,8 @@
     <MESSAGE value="Week 4 Angular JS, completed error handing using $http" />
     <MESSAGE value="Week 4 Angular JS, added persistent data storage for comments" />
     <MESSAGE value="Week 4 Angular JS, completed assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 4 Angular JS, completed assignment" />
+    <MESSAGE value="Week 3 NodeJS, finished first exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 NodeJS, finished first exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1000,10 +1246,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-1.js" />
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-1.js" />
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-2.js" />
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/node_modules/ms/LICENSE" />
     <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server.js" />
     <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/models/dishes-3.js" />
     <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/node-mongoose/server-3.js" />
@@ -1162,14 +1404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/dishes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1188,15 +1422,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/dishRouter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="1962">
           <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="158" column="80" selection-start-line="158" selection-start-column="80" selection-end-line="158" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/promotions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/leaderRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -1204,30 +1457,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/models/promotions.js">
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        <state relative-caret-position="486">
+          <caret line="27" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/routes/leaderRouter.js">
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/sessions/_vz4r5SZvNZephbAZilavOEPdI67wgFg.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/rest-server/db.json">
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/sessions/bkSfVqUJOq6QaghyoA1UxQCy2clEwvDO.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="150" column="5" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/basic-auth/server-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
           <folding />
         </state>
       </provider>

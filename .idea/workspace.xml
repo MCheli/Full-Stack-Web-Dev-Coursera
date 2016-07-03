@@ -2,53 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f653af-e605-40bf-af46-b17030556c3e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/caw/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/cli/node_modules/glob/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/di/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/got/node_modules/isarray/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/got/node_modules/readable-stream/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/kew/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/opn/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/q/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/tmp/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/node_modules/tmp/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/cliui/node_modules/wordwrap/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/concat-stream/node_modules/readable-stream/duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/concat-stream/node_modules/readable-stream/passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/concat-stream/node_modules/readable-stream/transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/concat-stream/node_modules/readable-stream/writable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/ms/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/ms/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/ms/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/ms/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/ms/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/.jscs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/dist/qs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/lib/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/lib/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/test/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/test/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/test/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/qs/test/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/readable-stream/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/readable-stream/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/readable-stream/duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/readable-stream/passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/readable-stream/transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/readable-stream/writable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/resolve-from/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/semver/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/void-elements/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/with/node_modules/acorn/src/loose/acorn_loose.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/xtend/.npmignore" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/favorites.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/favoriteRouter.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/concat-stream/node_modules/readable-stream/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/is-finite/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/isarray/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/map-obj/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/muri/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/number-is-nan/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/optimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/repeating/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/typedarray/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/node_modules/wordwrap/LICENSE" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js" afterPath="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,61 +36,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dishes.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/common/models/dishes.json">
+      <file leaf-file-name="favorites.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/favorites.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/server/boot/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginInfo" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/LoginInfo">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="dishes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/common/models/dishes.js">
+        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/dishes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datasources.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/server/datasources.json">
+      <file leaf-file-name="favoriteRouter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/favoriteRouter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model-config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/server/model-config.json">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="1080">
+              <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -147,8 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/server-leaders.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/leaders.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/promotions.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 2 - Data, Data, Where art Thou Data?/Assignment 2/models/leadership.js" />
         <option value="$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/conFusion/app/views/menu.html" />
@@ -183,14 +129,12 @@
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 3/rest-server-passport/routes/dishRouter.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 3/rest-server-passport/app.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 3/Assignment 3/rest-server-passport/routes/users.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/models/user.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/models/dishes.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/routes/dishRouter.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/routes/users.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/bin/www" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/Assignment 3/rest-server-passport/app.js" />
-        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/user.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/authenticate.js" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/users.js" />
@@ -198,6 +142,10 @@
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/server/model-config.json" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/common/models/dishes.json" />
         <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/loopback-server/server/boot/script.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/favoriteRouter.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js" />
+        <option value="$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/favorites.js" />
       </list>
     </option>
   </component>
@@ -315,7 +263,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="loopback-server" />
+              <option name="myItemId" value="rest-server-passport" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,71 +289,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="loopback-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Server-side Development with NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="loopback-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Server-side Development with NodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="loopback-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="rest-server-passport" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Stack-Web-Dev-Coursera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server-side Development with NodeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -608,14 +518,7 @@
       <workItem from="1467060204089" duration="5014000" />
       <workItem from="1467067478744" duration="6972000" />
       <workItem from="1467561188332" duration="3129000" />
-      <workItem from="1467575775039" duration="7692000" />
-    </task>
-    <task id="LOCAL-00019" summary="Finished exercise 2">
-      <created>1462736613922</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1462736613922</updated>
+      <workItem from="1467575775039" duration="9869000" />
     </task>
     <task id="LOCAL-00020" summary="Finished exercise 3">
       <created>1462738969447</created>
@@ -953,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467585480030</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Week 4 NodeJS, starting exercise">
+      <created>1467585539302</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1467585539302</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196993000" />
+    <option name="totallyTimeSpent" value="199170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -976,6 +886,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4912759" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.33315158" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.259375" sideWeight="0.46455833" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49563795" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57708335" sideWeight="0.31952018" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31458333" sideWeight="0.76881135" order="8" side_tool="false" content_ui="tabs" x="1985" y="24" width="1855" height="1056" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.6314068" order="2" side_tool="false" content_ui="tabs" />
@@ -990,7 +901,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.228125" sideWeight="0.544711" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49563795" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1041,21 +951,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/db.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="189" column="6" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/conFusion/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/json-server/public/scripts/app.js" />
     <entry file="file://$PROJECT_DIR$/Front-End Web UI Frameworks Angular JS/Week 4/conFusion/app/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -1207,6 +1102,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1278,29 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/dishes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/dishRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1309,14 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1405,6 +1270,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/dishRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/leadership.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/dishes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/routes/favoriteRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server-side Development with NodeJS/Week 4/rest-server-passport/models/favorites.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
           <folding />
         </state>
       </provider>
